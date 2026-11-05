@@ -44,7 +44,8 @@ The seven bean classes are:
 
 The dataset was divided into training and testing sets using an 80:20 split with stratification.
 
-## 4. Github Repository Link: https://github.com/2026ak05269-srisankar/ml_assignment_2
+## 4. Github Repository Link: 
+https://github.com/2026ak05269-srisankar/ml_assignment_2
 
 ## 5. Streamlit Application Link:     
 
