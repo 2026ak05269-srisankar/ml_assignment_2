@@ -79,7 +79,7 @@ model_files = {
     "Logistic Regression": "models/logistic_regression.joblib",
     "Decision Tree": "models/decision_tree.joblib",
     "KNN": "models/knn.joblib",
-    "Naive Bayes": "models/naive_bayes.joblib",
+    "Guassian Naive Bayes": "models/naive_bayes.joblib",
     "Support Vector Machine": "models/svm.joblib"
 }
 
