@@ -47,7 +47,8 @@ The dataset was divided into training and testing sets using an 80:20 split with
 ## 4. Github Repository Link: 
 https://github.com/2026ak05269-srisankar/ml_assignment_2
 
-## 5. Streamlit Application Link:     
+## 5. Streamlit Application Link:
+https://mlassignment2-srisankars.streamlit.app/
 
 ## 6. Methodology
 
